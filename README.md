@@ -7,11 +7,15 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **FLASK**
 
-- 📫 How to reach me **jasveens129@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/jasveen18](https://github.com/jasveen18)
+
+- 💬 Ask me about **MERN STACK, video editing, photoshop, Competitive Programming**
 
 - ⚡ Fun fact **I am a cricket geek and loves films and web series.**
+
+- 📫 How to reach me **jasveens129@gmail.com**
 <br/>
 
 ## 🚀 Languages and Tools:
