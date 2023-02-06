@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently working as **Data Engineering Intern**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasveen18](https://github.com/jasveen18)
 
